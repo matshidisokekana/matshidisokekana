@@ -33,6 +33,6 @@ I'm passionate about staying at the forefront of cloud technologies and continuo
 I'm currently seeking opportunities to apply my skills and contribute to challenging technical roles. Feel free to connect with me!
 
 * **LinkedIn:** [https://www.linkedin.com/in/matshidiso-kekana-39b529252]
-* **GitHub:** [Your GitHub Profile URL]
+* **GitHub:** [https://github.com/matshidisokekana]
 * **Email:** [Matshidisokekana28@gmail.com]
 
